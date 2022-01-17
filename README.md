@@ -24,3 +24,7 @@ There is a function called **water()** to create graphical view of blue water.Li
 
 Click [here](https://youtu.be/5V6fhflBE3w) to see demo video.
 
+# Required tools to install for running this project
+
+**glut,codeblocks**
+
